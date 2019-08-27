@@ -1,0 +1,24 @@
+{
+  "name": "vue-to-react-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maczyt/vue-to-react-loader.git"
+  },
+  "keywords": [],
+  "author": "maczyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maczyt/vue-to-react-loader/issues"
+  },
+  "homepage": "https://github.com/maczyt/vue-to-react-loader#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "vue": "^2.6.10"
+  }
+}
