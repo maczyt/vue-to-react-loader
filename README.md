@@ -10,6 +10,7 @@
 $ create-react-app xxx
 $ cd xxx && yarn eject
 # 增加vue文件webpack loader配置
+$ yarn add vue-to-react-loader --dev
 $ yarn start
 ```
 
